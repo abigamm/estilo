@@ -1,0 +1,58 @@
+*
+{
+	color:white;
+	background-color:black;
+	font-family:Bradley Hand ITC;
+}
+h1
+{
+	color:black; 
+	background-color:#70FF33 ;
+	font-size:8em;
+	text-align:center;
+	font-family:milcandy;	
+}
+h2
+{
+	color:black;
+	text-align:center;
+	background-color:#24DFC1  ;
+}
+img 
+{
+	height:500px;
+	width:600px;
+	display: block;
+	margin: 0px auto; 
+    border: 10px solid #C6DF24 ;
+}
+b
+{
+	text-align:center;
+	display: block;
+	margin: 0px auto;
+	color:#DFB024 
+}
+p
+{
+	text-align:center;
+	color:#24DF9F ;
+}
+h3
+{
+	color:#DFDC24 ;
+}
+li
+{
+	color:#F19FDA ;
+}
+td
+{
+	color:black;
+	background-color: #F5C287;
+}
+table
+{
+	background-color:#FB7800 ;
+	margin: 0 auto;
+}
